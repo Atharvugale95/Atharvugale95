@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **java,javascript,SQL**
+- 🌱 I’m currently learning **java,javascript,Python**
 
-- 💬 Ask me about **HTML,CSS,C++,Python**
+- 💬 Ask me about **HTML,CSS,C++,SQL**
 
 - 📫 How to reach me **atharvugale95@gmail.com**
 
